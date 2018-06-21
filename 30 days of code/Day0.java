@@ -6,7 +6,7 @@ public class Day0 {
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
 		Scanner scan = new Scanner(System.in); 
-		
+		my CHANGES TO dev1 branch..feature
 		// Read a full line of input from stdin and save it to our variable, inputString.
 		String inputString = scan.nextLine(); 
 
